@@ -3,7 +3,7 @@ import express, { Express, Request, Response } from "express";
 import * as swaggerStats from "swagger-stats";
 
 // section 2
-const port: number = 3000;
+const port: number = 4000;
 const app: Express = express();
 
 // section 3
